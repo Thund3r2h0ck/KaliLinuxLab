@@ -10,22 +10,26 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 
 <h2>Languages and Utilities Used</h2>
 
-- VMware
+- VMware Workstation Player 17
 
 <h2>Environments Used </h2>
 
 - Kali Linux
 
-<h2>Prerequisite</h2>
+<h2>Prerequisites</h2>
 
 - Internet Connection
 - Kali Linux ios file
-- VMWare installed
+- VMware Workstation (The Workstation Pro is recommended, but I will use Workstation Player)
 
 <h2>Steps taken:</h2>
 
-<h3></h3>
-  
+<h3>Adding Kali Linux to VMware</h3>
+
+- I downloaded Kali Linux VMWare image from the Kali website and extracted the folder.
+- After installing VMWare Player 17 to my PC, I clicked on <b>Open a Virtual Machine</b>
+- Find and Opened the Kali Linux VMWare virtual machine image from the extracted folder.
+
 <h2>Resources Used</h2>
 
 
