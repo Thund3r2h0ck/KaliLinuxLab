@@ -16,7 +16,7 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 
 - Kali Linux
 
-<h2>Prequesits</h2>
+<h2>Prerequisite</h2>
 
 - Internet Connection
 - Kali Linux ios file
