@@ -32,6 +32,8 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 
 <h2>Resources Used</h2>
 
+<h3>Youtube Videos</h3>
+
 - <a href='https://www.youtube.com/watch?v=Vos7DCTqvSM'><b>Pro Tip: What to Do After Installing Kali Linux - Douglas | Cybersecurity</b></a>
 
 
