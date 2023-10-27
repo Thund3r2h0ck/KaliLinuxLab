@@ -6,7 +6,7 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 <br/>
 
 <h2>What I have Learned</h2>
-
+- Adding a virtual machine image in VMware.
 
 <h2>Languages and Utilities Used</h2>
 
