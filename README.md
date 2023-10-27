@@ -20,7 +20,7 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 
 - Internet Connection
 - Kali Linux ios file
-- VMware Workstation (The Workstation Pro is recommended, but I will use Workstation Player)
+- VMware Workstation (VMware Workstation Pro is recommended, but I will use Workstation Player)
 
 <h2>Steps taken:</h2>
 
