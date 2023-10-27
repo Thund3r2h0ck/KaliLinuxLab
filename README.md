@@ -29,7 +29,7 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 - I downloaded Kali Linux VMWare image from the Kali website and extracted the folder.
 - After installing VMWare Player 17 to my PC, I clicked on <b>Open a Virtual Machine</b>
 <img src='https://i.imgur.com/6ZzjkQY.png'>
-- Find and Opened the Kali Linux VMWare virtual machine image from the extracted folder.
+- Find and Open the Kali Linux VMWare virtual machine image from the extracted folder.
 <img src='https://i.imgur.com/QMN2Ud6.png'>
 
 <h2>Resources Used</h2>
