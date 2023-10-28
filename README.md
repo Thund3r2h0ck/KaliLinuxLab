@@ -47,6 +47,9 @@ VMware Workstation Player with the Kali Linux virtual machine.
 - Running the command '<b>sudo apt upgrade -y</b>' to upgrade installed packages
 <img src='https://i.imgur.com/Bpg7fpb.png'>
 
+- Immediately run the command '<b>sudo apt autoremove</b>' to remove unwanted packages
+<img src='https://i.imgur.com/H8o73xQ.png'>
+
 
 <h2>Resources Used</h2>
 
