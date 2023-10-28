@@ -36,12 +36,16 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 - Find and open the Kali Linux VMWare virtual machine image from the extracted folder.
 <img src='https://i.imgur.com/QMN2Ud6.png'>
 
+VMware Workstation Player with the Kali Linux virtual machine.
+<img src='https://i.imgur.com/LnxW6FQ.png'>
+
 <h3>Kali Linux Hygiene</h3>
 
 - Opening up the command line prompt, and running the command '<b>sudo apt update</b>' and enter the sudo password (the command is used for updating the OS) 
 <img src='https://i.imgur.com/u9JOs37.png'>
 
 - Running the command '<b>sudo apt upgrade -y</b>' to upgrade installed packages
+<img src='https://i.imgur.com/Bpg7fpb.png'>
 
 
 <h2>Resources Used</h2>
