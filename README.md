@@ -10,10 +10,18 @@ Project consists of setting up a Kali Linux Virtual Machine in VMWare.
 - Adding a virtual machine image in VMware.
 - Updating Kali Linux
 - Upgrading installed packages in Kali Linux
+- Securing Kali Linux
+- Creating and managing permissions for a low level user
 
 <h2>Languages and Utilities Used</h2>
 
+<h3>Utilities</h3>
+
 - VMware Workstation Player 17
+
+<h3>Languages</h3>
+
+- BASH
 
 <h2>Environments Used </h2>
 
