@@ -50,6 +50,16 @@ VMware Workstation Player with the Kali Linux virtual machine.
 - Immediately run the command '<b>sudo apt autoremove</b>' to remove unwanted packages
 <img src='https://i.imgur.com/H8o73xQ.png'>
 
+<h3>Securing Kali</h3>
+
+- Because the Kali Linux installed was preconfigured, we have to change the password for the root user using the command '<b>sudo su -</b>' to login as the root.
+- Changing the password with the command '<b>passwd</b>'
+<img src='https://i.imgur.com/9A3TUIN.png'>
+
+- Adding a new user to the virtual machine to keep our Kali Linux virtual machine secured
+- Using the command '<b>adduser [username]</b>' followed by entering a secure password
+ <img src='https://i.imgur.com/7jS9E9e.png'>
+
 
 <h2>Resources Used</h2>
 
