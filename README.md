@@ -64,7 +64,7 @@ VMware Workstation Player with the Kali Linux virtual machine.
 - Following the command '<b>chsh -s /bin/bash [username]</b>' will make the low level user as the default user.
 <img src='https://i.imgur.com/UGRnL0x.png'>
 
-- We can confirm that the new low level user has the sudo permission by running the command '<b>grep 'sudo' /etc/group'</b>'
+- We can confirm that the new low level user has the sudo permission by running the command '<b>grep 'sudo' /etc/group</b>'
 
 <h2>Resources Used</h2>
 
